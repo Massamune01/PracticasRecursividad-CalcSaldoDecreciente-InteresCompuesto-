@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="calcDepreciacion/calcDepreciacion.csproj" />
+  <Project Path="interesCompuesto/interesCompuesto.csproj" />
+</Solution>
